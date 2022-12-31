@@ -23,10 +23,6 @@
  <img src="https://github-profile-trophy.vercel.app/?username=uzsoftic&theme=onestar&no-frame=true&no-bg=false&margin-w=5&column=7">
 </div>
 
-## 🐍 Snake
-<div align="center"> 
- <img alt="github contribution snake animation" src="github-contribution-grid-snake.svg">
-</div>
 
 ## 🌐 Socials:
 <div align="center"> 
