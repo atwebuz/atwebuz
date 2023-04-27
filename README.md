@@ -17,13 +17,6 @@
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=uzsoftic&theme=onestar&no-frame=true&no-bg=false&margin-w=5&column=7">
-</div>
-
-### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
