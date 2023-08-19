@@ -1,7 +1,6 @@
 <p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/atwebuz/count.svg" /> </p>
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=atwebuz&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/atwebuz/github-readme-stats#gh-light-mode-only)
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=atwebuz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/atwebuz/atwebuz)
 
 
 <p align="center">
