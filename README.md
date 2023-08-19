@@ -1,5 +1,6 @@
 <p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/atwebuz/count.svg" /> </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atwebuz&show_icons=true&theme=transparent)
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
