@@ -1,6 +1,8 @@
 <p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/atwebuz/count.svg" /> </p>
 
+<div align="center">
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=atwebuz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/atwebuz/atwebuz)
+</div>
 
 
 <p align="center">
