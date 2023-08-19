@@ -1,9 +1,16 @@
 <p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/atwebuz/count.svg" /> </p>
 
-<div align="center">
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=atwebuz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/atwebuz/atwebuz)
-</div>
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=atwebuz&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=atwebuz&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=atwebuz&show_icons=true" />
+</picture>
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
