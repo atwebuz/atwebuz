@@ -1,6 +1,6 @@
 <p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/atwebuz/count.svg" /> </p>
 
-<picture>
+<picture align="center">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=atwebuz&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
